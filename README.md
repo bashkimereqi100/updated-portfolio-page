@@ -56,14 +56,4 @@ WordPress 'Create a Free Website or Blog': https://wordpress.com
 w3schools.com: https://www.w3schools.com/
 
 
-## Credits:
 
-2019 Trilogy Education Services: https://www.trilogyed.com/ - Educational Instruction
-
-UCLA Extension Full Stack Web Development Bootcamp: https://bootcamp.uclaextension.edu/coding/  Educational Instruction and Facility Usages
-
-Omar Patel - UCLA Extension Lead Intructor and Student Support
-
-Julio Valdez, Peter Park, Irwing Gameros - UCLA Extension TAs and Student Support
-
-Mark Steadman - Full-Stack Software Engineer | Instructor and UCLA Full Stack Web Development Bootcamp Tutor
