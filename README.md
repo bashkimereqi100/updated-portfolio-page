@@ -3,7 +3,7 @@
 Website  link to initial Portfolio : 
 
 
-![](images%30screenshot.jpg)
+![](images/screenshot.jpg)
 
 
 
